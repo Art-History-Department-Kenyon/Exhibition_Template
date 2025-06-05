@@ -1,0 +1,7 @@
+field,display_name,btn,hidden,sort_name,facet_name
+artist,Artist,,,,,
+culture, Culture,,,,,
+date_display,Date,,,Date Created
+description,,,true,,
+subject,,true,,,,
+identifier,,,true,Identifier
