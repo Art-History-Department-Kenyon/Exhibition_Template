@@ -17,3 +17,11 @@ padding: 3em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
+# Section 3 Title
+
+Section 3 goes here.
+
+Can put in images here too.
+
+{% include feature/image.html objectid="ezor_001b;ezor_001a" width="50" %}

@@ -1,5 +1,5 @@
 ---
-title: Reveal
+title: Section 2 Title
 layout: about
 permalink: /section2.html
 # include CollectionBuilder info at bottom
@@ -9,15 +9,19 @@ about-featured-image: ezor_002a
 # set background-position for featured image, "center", "top", "bottom"
 position: center
 # major heading to display over featured image
-heading: Reveal
+heading: Section 2 Title
 # paragraph text below heading in featured image
-sub-heading: Objects as Revealers
+sub-heading: Section 2 subtitle
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
 padding: 3em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-# Reveal
+# Section 2 Title
 
-Reveal section text goes here.
+Section 2 goes here.
+
+Can put in images here too.
+
+{% include feature/image.html objectid="ezor_001b;ezor_001a" width="50" %}
