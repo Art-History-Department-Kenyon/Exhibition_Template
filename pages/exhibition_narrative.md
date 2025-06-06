@@ -24,8 +24,6 @@ padding: 3em
 
 Introduction text goes here. 
 
-This collection features objects from [LACMA](https://www.lacma.org/), the [MET](https://www.metmuseum.org/), and the [Brooklyn Museum](https://www.brooklynmuseum.org/).
-
 Can include objects like below.
 
 {% include feature/image.html objectid="ezor_001b;ezor_001a" width="50" %}

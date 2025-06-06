@@ -1,13 +1,13 @@
 display_name,stub,dropdown_parent
 Home,/,
-About,,
-About,/about.html,About
-Exhibition Narrative,/ExhibitionNarrative.html,About
-Section 1: Title,/section1.html,About
-Section 2: Title,/section2.html,About
-Section 3: Title,/section3.html,About
-Bibliography,/bibliography.html,About
+Exhibition,,
+Narrative,/ExhibitionNarrative.html,Exhibition
+Section 1: Title,/section1.html,Exhibition
+Section 2: Title,/section2.html,Exhibition
+Section 3: Title,/section3.html,Exhibition
+Bibliography,/bibliography.html,Exhibition
 Gallery,/gallery.html,
 Subjects,/subjects.html,
 Timeline,/timeline.html,
 Data,/data.html,
+About,/about.html,

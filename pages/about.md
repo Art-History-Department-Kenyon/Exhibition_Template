@@ -9,9 +9,9 @@ about-featured-image: ezor_004a
 # set background-position for featured image, "center", "top", "bottom"
 position: center
 # major heading to display over featured image
-heading: Exhibition Title
+heading: About This Exhibition
 # paragraph text below heading in featured image
-sub-heading: Exhibition Subtitle
+sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
 padding: 3em
 # Edit the markdown on in this file to describe your collection
@@ -20,6 +20,6 @@ padding: 3em
 
 # Exhibition Title
 
-Introductory Text Here
+This collection features objects from [LACMA](https://www.lacma.org/), the [MET](https://www.metmuseum.org/), and the [Brooklyn Museum](https://www.brooklynmuseum.org/).
 
 This project was made by STUDENT NAMES HERE in Professor Ezor's COURSE NUMBER AND TITLE class at Kenyon College, SEMESTER YEAR.
